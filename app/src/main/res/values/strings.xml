@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">CicloDeVida</string>
+    <string name="saludo">Hola Mundo desde String</string>
+    <string name="seg_activos">La app estuvo: </string>
+</resources>

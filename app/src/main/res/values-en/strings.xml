@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hello world from String</string>
+    <string name="seg_activos">The app was: </string>
+</resources>
